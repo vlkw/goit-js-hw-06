@@ -1,3 +1,4 @@
+'use strict'
 class Storage {
     constructor(items) {
         this._items = items;
